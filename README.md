@@ -1,8 +1,7 @@
 # Diamond-Kata
 
-This script reads a letter from console and prints its coresponding diamond.
-Example for the letter E:
-    
+Das Programm gibt das Alphabet bis zu gegebenen Buchstaben in Form eines Diamanten aus.
+Falls 'E' der gesuchte Buchstabe wäre, sähe der Diamant wie folgt aus:
 
     ----A----
     ---B-B---
