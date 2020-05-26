@@ -1,11 +1,9 @@
 # Diamond-Kata
 
 This script reads a letter from console and prints its coresponding diamond.
-Example
-    npm start
+Example for the letter E:
+    
 
-    Enter last diamond letter:
-    letter> E
     ----A----
     ---B-B---
     --C---C--
