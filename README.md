@@ -1,12 +1,17 @@
 # Diamond-Kata
 
-Das Programm gibt das Alphabet bis zu gegebenen Buchstaben in Form eines Diamanten aus.
+This script reads a letter from console and prints its coresponding diamond.
+Example
+    npm start
 
-
-Falls 'C' der gesuchte Buchstabe wäre, sähe der Diamant wie folgt aus:
-
---A--
--B-B-
-C---C
--B-B-
---A--
+    Enter last diamond letter:
+    letter> E
+    ----A----
+    ---B-B---
+    --C---C--
+    -D-----D-
+    E-------E
+    -D-----D-
+    --C---C--
+    ---B-B---
+    ----A----
